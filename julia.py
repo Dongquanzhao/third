@@ -2,3 +2,5 @@
 print("hhh")
 print("James")
 print("Maria")
+print("Lucy")
+
